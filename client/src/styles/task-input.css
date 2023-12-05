@@ -1,0 +1,8 @@
+.input-and-button {
+    padding-top: 30px;
+    display: flex;
+    position: fixed;
+    bottom: 5px;
+    width: 100%;
+    justify-content: center;
+  }
